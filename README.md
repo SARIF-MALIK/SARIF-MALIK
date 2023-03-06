@@ -4,7 +4,7 @@ I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B
 [![Twitter Follow](https://img.shields.io/twitter/follow/SARIF-MALIK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sarifmalikk)
   
 
-## I'm a Developer, Coder and Teacher!!
+## I'm a Developer & Coder!!
 
 - 🔭 I’m currently working on my WEB DEVELOPMENT & CODING SKILLS
 - 🌱 I’m currently learning React & Backend Development
