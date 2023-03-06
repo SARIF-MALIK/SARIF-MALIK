@@ -14,8 +14,9 @@ I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/SARIF-MALIK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay sahoo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarif-malik-ba8026221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarif malik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/SARIF_MALIK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SARIF_MALIK" height="30" width="40" /></a>
+
 
 ### Languages and Tools:
 
@@ -32,6 +33,7 @@ I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br />
-<br />
+
+
 
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIF-MALIK&&layout=compact&theme=radical)
