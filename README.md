@@ -15,7 +15,7 @@ I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/sarif-malik-ba8026221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarif malik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/SARIF_MALIK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SARIF_MALIK" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sarifmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SARIF_MALIK" height="30" width="40" /></a>
 
 
 ### Languages and Tools:
