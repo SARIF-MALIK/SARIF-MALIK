@@ -36,4 +36,3 @@ I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B
 
 
 
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIF-MALIK&&layout=compact&theme=radical)
