@@ -9,7 +9,7 @@ I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B
 - 🔭 I’m currently working on my WEB DEVELOPMENT & CODING SKILLS
 - 🌱 I’m currently learning React & Backend Development
 - 📫 How to reach me: sarifmalikk@gmail.com
-- ⚡ Fun fact: I love to listen Music & doing Exercise to make myself Fit mentally as well as physically 
+- ⚡ Fun fact: I love to listen Music 
 
 
 ### Connect with me:
