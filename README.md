@@ -2,7 +2,7 @@
 I'm SARIF MALIK, Student at Maharaja Agrasen Institute of Technology, pursuing B.Tech in Computer Science
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="220"/>
 </div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SARIF-MALIK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sarifmalikk)
