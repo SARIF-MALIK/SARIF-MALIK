@@ -7,10 +7,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SARIF-MALIK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sarifmalikk)
 
-**[CheckOut My Portfolio 🚀](https://sarifmalik.netlify.app/)**
+[![Explore My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio🚀-9cf)](https://sarifmalik.netlify.app/)
 
 
-## I'm a Developer & Coder!!
+
+
+
+ ### I'm a Developer & Coder!!
 
 - 🔭 I’m currently working on my WEB DEVELOPMENT & CODING SKILLS
 - 🌱 I’m currently learning React & Backend Development
